@@ -1,0 +1,14 @@
+{
+  "UId": "11111111-1111-1111-1111-111111111111",
+  "Name": "Product",
+  "ModifiedOnUtc": "\/Date(1696435200000)\/",
+  "ManagerName": "EntitySchemaManager",
+  "Caption": "Товари",
+  "DependsOn": [],
+  "ExtendParent": false,
+  "IsDBView": false,
+  "UseDenyRecordRights": false,
+  "ShowInAdvancedMode": true,
+  "UseLiveEditing": false,
+  "UseRecordDeactivation": false
+}

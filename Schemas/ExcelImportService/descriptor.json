@@ -1,0 +1,9 @@
+{
+  "UId": "99999999-9999-9999-9999-999999999999",
+  "Name": "ExcelImportService",
+  "ModifiedOnUtc": "\/Date(1696435200000)\/",
+  "ManagerName": "SourceCodeSchemaManager",
+  "Caption": "Сервіс імпорту Excel",
+  "DependsOn": ["Product", "Ingredient", "ProductCalculation"],
+  "ExtendParent": false
+}

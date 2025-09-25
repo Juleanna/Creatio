@@ -1,0 +1,171 @@
+{
+  "ProductName": "Калькуляционная карта изготовления изделия",
+  "ProductCode": "CALC-001",
+  "ProductionVolume": 30000,
+  "Ingredients": [
+    {
+      "Name": "Гладко пофарбоване\nтрикотажне ворсове\nначісне полотно типу\n“фліс”",
+      "Code": "18-0426",
+      "Unit": "мп",
+      "Quantity": 1.5,
+      "Coefficient": 1.02,
+      "UnitPrice": 1.53,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "Акт №1 від 24.12.24                                                                             Акт №2 від 24.12.24"
+    },
+    {
+      "Name": "Поліамідна тканина",
+      "Code": "18-0426",
+      "Unit": "мп",
+      "Quantity": 0.4,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.41,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1230 від 23.01.25"
+    },
+    {
+      "Name": "Поліестерова сітка",
+      "Code": "18-0426",
+      "Unit": "мп",
+      "Quantity": 0.4,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.41,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1230 від 23.01.25"
+    },
+    {
+      "Name": "Стрічка еластична",
+      "Code": "чорний",
+      "Unit": "мп",
+      "Quantity": 0.5,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.51,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №103 від 21.01.25"
+    },
+    {
+      "Name": "Шнур еластичний",
+      "Code": "хакі",
+      "Unit": "мп",
+      "Quantity": 1.55,
+      "Coefficient": 1.02,
+      "UnitPrice": 1.58,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №7092 від 30.09.24                                    ВН №2985 від 31.05.24"
+    },
+    {
+      "Name": "Шнур плетений",
+      "Code": "хакі",
+      "Unit": "шт",
+      "Quantity": 1.1,
+      "Coefficient": 1.0,
+      "UnitPrice": 1.1,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1259 від 23.09.24                                   ВН №53 від 17.01.25"
+    },
+    {
+      "Name": "Тасьма репсова",
+      "Code": "хакі",
+      "Unit": "мп",
+      "Quantity": 2.8,
+      "Coefficient": 1.02,
+      "UnitPrice": 2.86,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1218 від 17.09.24                                ВН №1259 від 23.09.24                                   ВН №53 від 17.01.25                                     ВН №103 від 21.01.25"
+    },
+    {
+      "Name": "Застібка текстильна \"петля\" 2,5",
+      "Code": "хакі",
+      "Unit": "мп",
+      "Quantity": 0.26,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.27,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №4938 від 12.09.24"
+    },
+    {
+      "Name": "Застібка текстильна \"петля\" 4,0",
+      "Code": "хакі",
+      "Unit": "мп",
+      "Quantity": 0.6,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.61,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1060 від 13.02.24                                       ВН №4541 від 23.08.24                                               ВН №4938 від 12.09.24"
+    },
+    {
+      "Name": "Застібка текстильна \"петля\" 5,0",
+      "Code": "хакі",
+      "Unit": "мп",
+      "Quantity": 0.1,
+      "Coefficient": 1.02,
+      "UnitPrice": 0.1,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №1060 від 13.02.24                                               ВН №4938 від 12.09.24"
+    },
+    {
+      "Name": "Застібка-блискавка №6 20см.",
+      "Code": "хакі",
+      "Unit": "шт",
+      "Quantity": 2.0,
+      "Coefficient": 1.0,
+      "UnitPrice": 2.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №3294 від 10.06.24                           ВН №3495 від 21.06.24"
+    },
+    {
+      "Name": "Застібка-блискавка роз'ємна з двома замками №6                                                  65,70-75,80см.",
+      "Code": "хакі",
+      "Unit": "шт",
+      "Quantity": 1.0,
+      "Coefficient": 1.0,
+      "UnitPrice": 1.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №79 від 17.01.25                                  ВН №82 від 21.01.25                                                                                  ВН №3495 від 21.06.24"
+    },
+    {
+      "Name": "Фіксатор шнура з двома отворами Тип 3.",
+      "Code": "хакі",
+      "Unit": "шт",
+      "Quantity": 2.0,
+      "Coefficient": 1.0,
+      "UnitPrice": 2.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №107 від 09.05.24                                                    ВН №51 від 04.09.24                                                         ВН №55 від 06.09.24                                      ВН №56 від 09.09.24                                      ВН №57 від 10.09.24                                      ВН №60 від 12.09.24"
+    },
+    {
+      "Name": "Нитки армовані",
+      "Code": "хакі 264",
+      "Unit": "мп",
+      "Quantity": 300.0,
+      "Coefficient": 1.02,
+      "UnitPrice": 306.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №2818 від 31.05.24"
+    },
+    {
+      "Name": "Нитки поліестерові",
+      "Code": "хакі 264",
+      "Unit": "мп",
+      "Quantity": 200.0,
+      "Coefficient": 1.02,
+      "UnitPrice": 204.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "ВН №2818 від 31.05.24"
+    },
+    {
+      "Name": "Директор",
+      "Code": "",
+      "Unit": "кг",
+      "Quantity": 0.0,
+      "Coefficient": 1.0,
+      "UnitPrice": 0.0,
+      "ProductionVolume": 30000,
+      "SupplyDocuments": "Б.В.Сидоренко"
+    }
+  ],
+  "Summary": {
+    "TotalIngredients": 16,
+    "TotalCost": 4058288004.72
+  }
+}

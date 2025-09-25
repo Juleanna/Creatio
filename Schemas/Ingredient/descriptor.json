@@ -1,0 +1,14 @@
+{
+  "UId": "77777777-7777-7777-7777-777777777777",
+  "Name": "Ingredient",
+  "ModifiedOnUtc": "\/Date(1696435200000)\/",
+  "ManagerName": "EntitySchemaManager",
+  "Caption": "Інгредієнти",
+  "DependsOn": [],
+  "ExtendParent": false,
+  "IsDBView": false,
+  "UseDenyRecordRights": false,
+  "ShowInAdvancedMode": true,
+  "UseLiveEditing": false,
+  "UseRecordDeactivation": false
+}

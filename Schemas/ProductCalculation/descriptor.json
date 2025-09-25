@@ -1,0 +1,14 @@
+{
+  "UId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee",
+  "Name": "ProductCalculation",
+  "ModifiedOnUtc": "\/Date(1696435200000)\/",
+  "ManagerName": "EntitySchemaManager",
+  "Caption": "Калькуляція товарів",
+  "DependsOn": ["Product", "Ingredient"],
+  "ExtendParent": false,
+  "IsDBView": false,
+  "UseDenyRecordRights": false,
+  "ShowInAdvancedMode": true,
+  "UseLiveEditing": false,
+  "UseRecordDeactivation": false
+}
