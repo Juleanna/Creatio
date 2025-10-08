@@ -1,11 +1,19 @@
 {
   "UId": "12345678-1234-1234-1234-123456789012",
-  "Name": "ProductCalculation",
-  "CreatedBy": "Claude",
-  "ModifiedBy": "Claude",
+  "Name": "UsrProductCalculation",
+  "CreatedBy": "Supervisor",
+  "ModifiedBy": "Supervisor",
   "CreatedOn": "2025-09-25T00:00:00Z",
-  "ModifiedOn": "2025-09-25T00:00:00Z",
-  "Description": "Пакет для управления калькуляцией товаров и ингредиентов",
-  "PackageVersion": "1.0.0",
-  "Maintainer": "Your Company"
+  "ModifiedOn": "2025-10-08T00:00:00Z",
+  "Description": "Пакет для управління калькуляцією товарів та інгредієнтів | Package for product calculation and ingredient management",
+  "PackageVersion": "1.0.1",
+  "Maintainer": "INTER TEXT",
+  "DependsOn": [
+    {
+      "UId": "76b1ccb1-c9cf-4966-9a26-cf93e8d1e20b",
+      "Name": "CrtBase",
+      "Version": "8.0.0"
+    }
+  ],
+  "InstallType": "ForAllUsers"
 }

@@ -1,0 +1,16 @@
+{
+  "UId": "a1b2c3d4-e5f6-4a5b-8c9d-1e2f3a4b5c6d",
+  "Name": "UsrProduct",
+  "ModifiedOnUtc": "\/Date(1728345600000)\/",
+  "ManagerName": "EntitySchemaManager",
+  "Caption": "Товар",
+  "CaptionResourceName": "UsrProductCaption",
+  "DependsOn": [],
+  "ExtendParent": false,
+  "IsDBView": false,
+  "UseDenyRecordRights": false,
+  "ShowInAdvancedMode": false,
+  "UseLiveEditing": false,
+  "UseRecordDeactivation": false,
+  "PackageUId": "12345678-1234-1234-1234-123456789012"
+}
